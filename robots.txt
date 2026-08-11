@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ljkavc.keitaro-tech-rtb.online/sitemap.xml
